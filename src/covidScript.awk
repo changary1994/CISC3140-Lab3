@@ -13,7 +13,9 @@ BEGIN {
 	sumTests = 0;
 	population = 0;
 	sumPopulation = 0;
-        
+	percentDead = 0;
+	percentRecovered = 0;
+	
 }
 
 {
@@ -35,6 +37,8 @@ BEGIN {
 }
 
 END {
+	percentDead = (sumDeaths / sumCases) * 100;
+	percentRecovered = (sumRecovered / sumCases) * 100;
 	print "\n Total Cases in North America: ";	
 	printf "%-5s\n", sumCases;
 	print "\n Total Deaths in North America: ";
@@ -47,4 +51,8 @@ END {
 	printf "%-5s\n", sumTests;
 	print "\n Total Population in North America: ";
 	printf "%-5s\n", sumPopulation;
+	print "\n Percent of cases resulting in deaths: ";
+	printf "%.2f\n", percentDead;
+	print "\n Percent of cases resulting in recovery: ";
+	printf "%.2f\n", percentRecovered;
 }
