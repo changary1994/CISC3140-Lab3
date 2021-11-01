@@ -55,3 +55,9 @@ USA                                      46823938        766299.0        3671531
 
  Total Population in North America: 
 595243611
+
+ Percent of cases resulting in deaths: 
+2.04
+
+ Percent of cases resulting in recovery: 
+79.80
