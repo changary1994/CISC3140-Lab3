@@ -1,0 +1,57 @@
+Country/Other                            Total Cases     Total Deaths    Total Recovered Active Cases    Total Tests     Population     
+Anguilla                                 944             1.0             832             111             47917.0         15181          
+Antigua and Barbuda                      4058            102.0           3726            230             17674.0         99008          
+Aruba                                    15925           171.0           15577           177             177885.0        107369         
+Bahamas                                  22351           643.0           21079           629             156253.0        398242         
+Barbados                                 17763           153.0           11506           6104            388760.0        287843         
+Belize                                   26798           491.0           23706           2601            308186.0        407218         
+Bermuda                                  5647            101.0           5462            84              593903.0        61972          
+British Virgin Islands                   2725            37.0            2649            39              82570.0         30499          
+Canada                                   1714414         28968.0         1659368         26078           46092312.0      38182348       
+Caribbean Netherlands                    2435            19.0            2340            76              25579.0         26547          
+Cayman Islands                           1650            2.0             1002            646             138625.0        66748          
+Costa Rica                               559698          7029.0          500425          52244           2544016.0       5155994        
+Cuba                                     952001          8236.0          939816          3949            10521065.0      11317411       
+Curaçao                                 17084           174.0           16798           112             314005.0        164986         
+Dominica                                 4823            32.0            4337            454             92406.0         72224          
+Dominican Republic                       381667          4130.0          371100          6437            2216354.0       10992595       
+El Salvador                              113422          3629.0          94980           14813           1357788.0       6529758        
+Greenland                                799                             723             76              87340.0         56901          
+Grenada                                  5840            198.0           5519            123             81311.0         113217         
+Guadeloupe                               54537           742.0           2250            51545           495286.0        400215         
+Guatemala                                601572          15094.0         580691          5787            2909198.0       18355851       
+Haiti                                    23960           671.0           20345           2944            131683.0        11587356       
+Honduras                                 375381          10240.0         115886          249255          1089253.0       10113965       
+Jamaica                                  89014           2236.0          57904           28874           641347.0        2978368        
+Martinique                               42634           670.0           104             41860           376921.0        374878         
+Mexico                                   3807211         288365.0        3168911         349935          11346642.0      130734334      
+Montserrat                               41              1.0             34              6               1408.0          4996           
+Nicaragua                                16422           207.0           4225            11990                           6729357        
+Panama                                   472664          7315.0          463045          2304            4075012.0       4405039        
+Saint Kitts and Nevis                    2669            23.0            2511            135             52204.0         53700          
+Saint Lucia                              12559           255.0           11959           345             86659.0         184744         
+Saint Martin                             3872            56.0            1399            2417            54303.0         39542          
+Sint Maarten                             4494            75.0            4389            30              53105.0         43523          
+St. Barth                                1589            6.0             462             1121            38369.0         9917           
+St. Vincent Grenadines                   4995            68.0            3108            1819            86254.0         111409         
+Trinidad and Tobago                      57329           1696.0          50732           4901            395133.0        1405520        
+Turks and Caicos                         2980            23.0            2902            55              94789.0         39413          
+USA                                      46823938        766299.0        36715313        9342326         698692194.0     333585423      
+
+ Total Cases in North America: 
+56247905
+
+ Total Deaths in North America: 
+1148158
+
+ Total Recovered in North America: 
+44887115
+
+ Total Active Cases in North America: 
+10212632
+
+ Total Tests Conducted in North America: 
+785863709
+
+ Total Population in North America: 
+595243611
