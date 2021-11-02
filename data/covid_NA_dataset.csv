@@ -1,4 +1,4 @@
-Country/Other,Total Cases,Total Deaths,Total Recovered,Active Cases,Total Cases/1 mil population,Deaths/1 mil population,Total Tests,Tests/1 mil population,Population
+Country,Total Cases,Total Deaths,Total Recovered,Active Cases,Total Cases/1 mil population,Deaths/1 mil population,Total Tests,Tests/1 mil population,Population
 Anguilla,944,1.0,832,111,62183,66.0,47917.0,3156380.0,15181
 Antigua and Barbuda,4058,102.0,3726,230,40987,1030.0,17674.0,178511.0,99008
 Aruba,15925,171.0,15577,177,148320,1593.0,177885.0,1656763.0,107369
