@@ -1,4 +1,4 @@
 print:	src/covidScript.awk
 	touch covidReport.txt
-	@awk -f src/covidScript.awk data/covid_NA_data.csv > covidReport.txt
+	@awk -f src/covidScript.awk data/covid_NA_dataset.csv > covidReport.txt
 	@echo "File has been created"
